@@ -26,6 +26,10 @@ h2 {
     background-color: #161c3b;
 }
 
+.ms-bg-primary {
+    background-color: #00439c;
+}
+
 .ms-btn-danger {
     background-color: #CB3C0B;
     color: white;
