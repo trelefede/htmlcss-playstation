@@ -22,6 +22,10 @@ h2 {
     background-color: #ffff;
 }
 
+.ms-bg-dark-blue {
+    background-color: #161c3b;
+}
+
 .ms-btn-danger {
     background-color: #CB3C0B;
     color: white;
