@@ -11,4 +11,22 @@
     background-color: #ffff;
 }
 
+.ms-btn-danger {
+    background-color: #CB3C0B;
+    border-radius: 5.25rem;
+    color: white;
+}
+
+.ms-rounded-3 {
+    border-radius: 1rem;
+}
+
 /*** CONTENT ***/
+
+/* jumbotron */
+#jumbotron {
+    background-image: url(../img/jumbo-bg.png);
+    background-size: cover;
+    background-position: center;
+    min-height: 500px;
+}
