@@ -1,5 +1,8 @@
 /*** GENERICS ***/
 
+h2 {
+    font-size: 2.5rem;
+}
 
 /*** UTILITIES ***/
 
@@ -9,6 +12,10 @@
 
 .ms-bg-grey {
     background-color: #1f1f1f;
+}
+
+.ms-bg-light-grey {
+    background-color: #bebcbb;
 }
 
 .ms-bg-light {
@@ -32,8 +39,9 @@
     padding-top: 13rem;
 }
 
-h2 {
-    font-size: 2.5rem;
+.ms-btn-secondary {
+    background-color: #d9dadc;
+    color: #4071e4;
 }
 
 /*** CONTENT ***/
