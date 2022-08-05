@@ -54,6 +54,11 @@ h2 {
 
 /*** CONTENT ***/
 
+/* navbar */
+#navbar .dropdown-menu.show {
+    display: flex;
+}
+
 /* jumbotron */
 #jumbotron {
     background-image: url(../img/jumbo-bg.png);
