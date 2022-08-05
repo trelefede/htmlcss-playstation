@@ -79,9 +79,10 @@ h2 {
 .thumb-effect {
     opacity: 0.5;
     transition: border;
+    border-bottom: 2px solid white;
 }
 
 .thumb-effect:hover {
-    border-bottom: 2px solid #2f8cd7;
+    border-bottom-color: #2f8cd7;
     opacity: 1;
 }
