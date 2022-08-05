@@ -69,3 +69,14 @@ h2 {
     background-position: center;
     min-height: 500px;
 }
+
+/* ps5 */
+.thumb-effect {
+    opacity: 0.5;
+    transition: border;
+}
+
+.thumb-effect:hover {
+    border-bottom: 2px solid #2f8cd7;
+    opacity: 1;
+}
